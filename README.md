@@ -10,3 +10,4 @@ Learn node.js with ExpressJS
 - [x] Use App instead of server
 - [x] Handling Diffrent Routes
 - [x] Parsing Incoming Requests
+- [x] Change App method get and post
