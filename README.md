@@ -4,5 +4,6 @@ Learn node.js with ExpressJS
 
 ## To-do List
 
-- Installing Express.js [x]
-- Adding MiddleWare [x]
+[x] Installing Express.js
+[x] Adding MiddleWare
+[x] Response to Client in Middleware
