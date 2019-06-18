@@ -12,3 +12,4 @@ Learn node.js with ExpressJS
 - [x] Parsing Incoming Requests
 - [x] Change App method get and post
 - [x] Using Express Router
+- [x] Adding a 404 Error Page
