@@ -19,3 +19,4 @@ Learn node.js with ExpressJS
 - [x] Returning a 404 Page
 - [x] Using a Helper Function for Navigation
 - [x] Styling our Pages
+- [x] Serving Files Statically
