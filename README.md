@@ -16,3 +16,4 @@ Learn node.js with ExpressJS
 - [x] Filtering Paths
 - [x] Creating HTML Pages
 - [x] Serving HTML Pages
+- [x] Returning a 404 Page
