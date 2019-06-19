@@ -15,3 +15,4 @@ Learn node.js with ExpressJS
 - [x] Adding a 404 Error Page
 - [x] Filtering Paths
 - [x] Creating HTML Pages
+- [x] Serving HTML Pages
