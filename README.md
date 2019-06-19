@@ -17,3 +17,4 @@ Learn node.js with ExpressJS
 - [x] Creating HTML Pages
 - [x] Serving HTML Pages
 - [x] Returning a 404 Page
+- [x] Using a Helper Function for Navigation
