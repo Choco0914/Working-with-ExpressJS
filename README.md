@@ -14,3 +14,4 @@ Learn node.js with ExpressJS
 - [x] Using Express Router
 - [x] Adding a 404 Error Page
 - [x] Filtering Paths
+- [x] Creating HTML Pages
