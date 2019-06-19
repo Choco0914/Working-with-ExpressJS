@@ -13,3 +13,4 @@ Learn node.js with ExpressJS
 - [x] Change App method get and post
 - [x] Using Express Router
 - [x] Adding a 404 Error Page
+- [x] Filtering Paths
